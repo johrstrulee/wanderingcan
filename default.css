@@ -12,6 +12,7 @@ img {
 }
 .center {
   margin: auto;
+  border: 1px solid red;
 }
 .header {
   background-color: #cecece;
