@@ -9,6 +9,8 @@ body {
 }
 .header {
   background-color: #cecece;
+  background-image: url('img/headerbg-lg.png');
+  background-size: cover;
   padding: 0px;
 }
 .frame {
