@@ -10,6 +10,9 @@ body {
 img { 
   align: center;
 }
+.center {
+  margin: auto;
+}
 .header {
   background-color: #cecece;
   background-image: url('img/headerbg-lg.png');
