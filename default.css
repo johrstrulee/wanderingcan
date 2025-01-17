@@ -7,6 +7,9 @@ body {
   background-color: #121212;
   font-family: "New Tegomin";
 }
+img { 
+  align: center;
+}
 .header {
   background-color: #cecece;
   background-image: url('img/headerbg-lg.png');
