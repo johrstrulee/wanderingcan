@@ -8,7 +8,10 @@ body {
   font-family: "New Tegomin";
 }
 img { 
-  align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
 .center {
   margin: auto;
