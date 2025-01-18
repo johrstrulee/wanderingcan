@@ -28,7 +28,13 @@ body {
 .text {
   padding: 10% 20px;
 }
-
+.pic { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 380px;
+  padding: 10px;
+}
 [class*="col-"] {
   width: 100%;
 }
