@@ -7,13 +7,11 @@ body {
   background-color: #121212;
   font-family: "New Tegomin";
 }
-img { 
+.logo { 
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 400px;
-}
-.logo {
   padding: 150px 0;
 }
 .header {
