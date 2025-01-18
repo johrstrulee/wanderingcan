@@ -13,7 +13,6 @@ img {
 .center {
   margin: auto;
   width: 400px;
-  border: 1px solid red;
 }
 .header {
   background-color: #cecece;
@@ -25,6 +24,9 @@ img {
 .frame {
   align: center;
   padding: 20px;
+}
+.text {
+  padding: 20%;
 }
 
 [class*="col-"] {
