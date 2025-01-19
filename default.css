@@ -26,6 +26,7 @@ body {
   padding: 20px;
   min-width: 380px;
   text-align: justify;
+  margin: auto;
 }
 .pic { 
   display: block;
