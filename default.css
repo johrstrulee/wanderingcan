@@ -42,11 +42,9 @@ body {
 /* tablets */
   .col-left {
      width: 40%;
-     padding: 10px 20px auto auto;
   }
   .col-mid {
      width: 60%;
-     padding: 10px auto auto 20px;
   }
 }
 
