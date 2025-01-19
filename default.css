@@ -11,7 +11,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 400px;
+  width: 80%;
+  max-width: 400px;
   padding: 150px 0;
 }
 .header {
