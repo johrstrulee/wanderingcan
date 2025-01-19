@@ -19,7 +19,8 @@ body {
   background-color: #cecece;
   background-image: url('img/headerbg-lg.png');
   background-size: cover;
-  height: 350px;
+  height: 20%;
+  max-height: 350px;
   padding: 0px;
 }
 
