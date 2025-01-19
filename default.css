@@ -11,8 +11,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-  max-width: 380px;
+  width: 380px;
   padding: 150px 0;
 }
 .header {
@@ -25,14 +24,14 @@ body {
 }
 .text {
   padding: 20px;
+  min-width: 380px;
   text-align: justify;
 }
 .pic { 
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
-  max-width: 380px;
+  width: 380px;
   padding: 10px 0;
 }
 
