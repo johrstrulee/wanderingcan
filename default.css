@@ -11,8 +11,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
-  max-width: 400px;
+  width: 70%;
+  max-width: 380px;
   padding: 150px 0;
 }
 .header {
@@ -30,10 +30,35 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 380px;
+  width: 70%;
+  max-width: 380px;
   padding: 10px;
 }
 [class*="col-"] {
   width: 100%;
 }
+@media only screen and (min-width: 600px) {
+/* tablets */
+  .col-left {
+     width: 40%;
+     padding: 10px 20px auto auto;
+  }
+  .col-mid {
+     width: 60%;
+     padding: 10px auto auto 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
