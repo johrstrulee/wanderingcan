@@ -23,7 +23,6 @@ body {
   max-height: 350px;
   padding: 0px;
 }
-
 .text {
   padding: 20px;
 }
@@ -41,10 +40,12 @@ body {
 @media only screen and (min-width: 600px) {
 /* tablets */
   .col-left {
-     width: 40%;
+    width: 40%;
+    float: left;
   }
   .col-mid {
-     width: 60%;
+    width: 60%;
+    float: left;
   }
 }
 
