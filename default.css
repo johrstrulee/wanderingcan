@@ -50,10 +50,10 @@ body {
 @media only screen and (min-width: 600px) {
 /* tablets */
   .col-left {
-    width: 40%;
+    width: 50%;
   }
   .col-mid {
-    width: 60%;
+    width: 50%;
   }
 }
 
