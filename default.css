@@ -39,6 +39,8 @@ body {
   content: "";
   clear: both;
   display: table;
+  margin: auto;
+  max-width: 800px;
 }
 [class*="col-"] {
   width: 100%;
