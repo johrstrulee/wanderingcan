@@ -31,8 +31,9 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 60%;
   max-width: 380px;
-  padding: 10px;
+  padding: 10px 0;
 }
 
 .row::after {
@@ -45,7 +46,7 @@ body {
 [class*="col-"] {
   width: 100%;
   float: left;
-  padding: 20px;
+  padding: 10px;
 }
 @media only screen and (min-width: 600px) {
 /* tablets */
