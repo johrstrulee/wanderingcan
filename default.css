@@ -25,12 +25,12 @@ body {
 }
 .text {
   padding: 20px;
+  text-align: justify;
 }
 .pic { 
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
   max-width: 380px;
   padding: 10px;
 }
