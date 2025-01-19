@@ -34,18 +34,24 @@ body {
   max-width: 380px;
   padding: 10px;
 }
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 [class*="col-"] {
   width: 100%;
+  float: left;
+  padding: 20px;
 }
 @media only screen and (min-width: 600px) {
 /* tablets */
   .col-left {
     width: 40%;
-    float: left;
   }
   .col-mid {
     width: 60%;
-    float: left;
   }
 }
 
