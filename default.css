@@ -7,6 +7,13 @@ body {
   background-color: #121212;
   font-family: "New Tegomin";
 }
+a {
+  font-family: "Genos";
+}
+.nav {
+  background-color: #121212;
+  padding: 5px;
+}
 .logo { 
   display: block;
   margin-left: auto;
