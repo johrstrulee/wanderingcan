@@ -9,6 +9,9 @@ body {
 }
 a {
   font-family: "Genos";
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
 }
 .nav {
   background-color: #121212;
