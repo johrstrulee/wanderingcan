@@ -64,7 +64,6 @@ a {
   max-width: 800px;
 }
 [class*="col-"] {
-  width: 100%;
   float: left;
   padding: 10px;
 }
