@@ -10,7 +10,7 @@ body {
 a {
   font-family: "Genos";
   text-decoration: none;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   color: #ccddee;
 }
@@ -18,7 +18,7 @@ a {
   background-color: #121212;
   text-align: justify;
   letter-spacing: 2px;
-  padding: 20px;
+  padding: 0;
   margin: 0;
 } 
 .item {
