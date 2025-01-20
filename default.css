@@ -43,7 +43,7 @@ a {
 .text {
   padding: 20px;
   text-align: justify;
-  background-image: url('img/flagfadedlight.png');
+  background-image: url('img/flagfadeddark.png');
   background-size: cover;
 }
 .pic { 
