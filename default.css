@@ -42,7 +42,7 @@ a {
 }
 .text {
   padding: 20px;
-  max-width: 380px;
+  width: 380px;
   text-align: justify;
   display: block;
   margin-left: auto;
