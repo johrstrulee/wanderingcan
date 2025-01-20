@@ -65,7 +65,7 @@ a {
   float: left;
   padding: 10px;
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 700px) {
 /* tablets */
   .col-left {
     width: 50%;
