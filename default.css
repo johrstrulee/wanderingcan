@@ -10,15 +10,16 @@ body {
 a {
   font-family: "Genos";
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bold;
   color: #ccddee;
 }
 .nav {
   background-color: #121212;
   text-align: justify;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   padding: 20px;
+  margin: 0;
 } 
 .item {
 }
