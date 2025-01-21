@@ -50,8 +50,8 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 380px;
-  padding: 10px 0;
+  width: 100%;
+  height: auto;
 }
 
 .row::after {
