@@ -44,7 +44,7 @@ a {
   padding: 20px;
   text-align: justify;
   background-image: url('img/flagfadedark.png');
-  background-size: cover;
+  background-size: auto;
 }
 .pic { 
   display: block;
