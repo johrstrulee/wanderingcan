@@ -20,6 +20,7 @@ a {
   text-align: center;
   padding: 0;
   margin: 0;
+  display: none;
 } 
 .item {
   padding: 2px 20px 40px 20px;
@@ -68,6 +69,7 @@ a {
 }
 @media only screen and (min-width: 700px) {
 /* tablets */
+  .nav { display: block; }
   .col-left {
     width: 50%;
   }
@@ -77,6 +79,7 @@ a {
 }
 @media only screen and (min-width: 1000px) {
 /* desktop */
+  .nav { display: block; }
 }
 
 
